@@ -11,9 +11,9 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  - 📫 Mail - **stephenstarc01@gmail.com**
-  - Here is my Portfolio - <a href='https://portfolio-starc.netlify.app' target='_blank'>Portfolio</a>
-  Whatapps - 9514283302
+  - 📫 Mail - stephenstarc01@gmail.com <br />
+  - Here is my Portfolio - <a href='https://portfolio-starc.netlify.app' target='_blank'>Portfolio</a> <br />
+  Whatapps - 9514283302 <br />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
