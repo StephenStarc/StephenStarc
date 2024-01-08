@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on any Web developement Projects
 - 📫 How to reach me **stephenstarc01@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/StephenStarc](https://github.com/StephenStarc)
+- 👨‍💻 All of my projects are available at <a href='https://portfolio-starc.netlify.app' target='_blank'>Portfolio</a>
 
 - 💬 Ask me about **React**
 
-
+- Here is my Portfolio - <a href='https://portfolio-starc.netlify.app' target='_blank'>Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
