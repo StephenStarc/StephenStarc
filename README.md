@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenStarc
-- 👀 I’m interested in Computer Science and different Programming Language...
+- 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning Front end Developement
 - 💞️ I’m looking to collaborate on any Web developement Projects
 - 📫 How to reach me **stephenstarc01@gmail.com**
