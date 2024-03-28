@@ -3,6 +3,7 @@
 - 🌱 Trying to be Full stack developer
 - 💞️ I’m looking to collaborate on any Web developement Projects
 - 📫 How to reach me **stephenstarc01@gmail.com**
+- Insta : stephen.starc
 
 - 👨‍💻 All of my projects are available at <a href='https://portfolio-starc.netlify.app' target='_blank'>Here</a>
 
