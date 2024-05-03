@@ -16,7 +16,6 @@
   <br />
   - Here is my Portfolio - <a href='https://portfolio-starc.netlify.app' target='_blank'>Portfolio</a> <br />
   <br />
-  - Whatapps - 9514283302 <br />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
